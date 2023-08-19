@@ -4,5 +4,6 @@ Nav:
 Home >
 Login >
 Register >
+Shop >
 
 Welcome to Metis!

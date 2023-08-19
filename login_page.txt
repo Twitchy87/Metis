@@ -1,5 +1,6 @@
 Welcome to login page!
 
 Error: invalid credentials.
+Error: invalid email.
 
 Forgot password?
