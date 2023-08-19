@@ -7,3 +7,5 @@ Register >
 Shop >
 
 Welcome to Metis!
+
+Contact us hello@metis.com
